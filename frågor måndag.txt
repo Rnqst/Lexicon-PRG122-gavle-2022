@@ -1,0 +1,21 @@
+Försök besvara följande frågor till tisdagens lektion:
+
+Din gamla dator gick sönder men du hade checkat in all din kod på github
+innan. Har du då tappat information när du tittar på koden i din nya
+dator efter att ha checkat ut den där igen?
+
+Om vi fortsätter frågan med att även github kraschar efter att du lyckats
+hämta ut koden till din nya dator. Vad finns det för möjlighet att då
+kopiera din kod till dina kollegor om github ligger nere?
+
+Om det går att kopiera till kollegorna, blir deras kopior då lika
+kompletta som om de tankat sakerna direkt från github?
+
+Varför lägger så många upp sina program på github?
+
+Är det inte bättre att sälja programmen och bli rik?
+
+
+Lycka till,
+Rolle
+roland.ronquist@nordlo.com
