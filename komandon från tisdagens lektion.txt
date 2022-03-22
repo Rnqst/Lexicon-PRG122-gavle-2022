@@ -1,0 +1,23 @@
+git-kommandon som jag kört idag
+
+   7  pwd
+    8  cd Documents/GitHub/
+    9  ls
+   10  cd desktop-tutorial/
+   11  git status
+   12  git log
+   13  ls
+   14  pwd
+   15  cd Documents/GitHub/desktop-tutorial/
+   16  pwd
+   17  git status
+   18  git log
+   19  ls
+   20  history
+
+kör:
+git help git
+så får ni en webbsida med manualen
+
+git help -a
+listar alla kommandon i terminalen
