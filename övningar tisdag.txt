@@ -1,0 +1,40 @@
+Tisdagens frågor
+
+1.
+Vi jobbar i desktop-tutorial
+Skapa en fil, MinFil.txt, skriv in minst fem rader text.
+Skriv in en förklarande kommentar
+Kör commit
+
+
+2.
+Vi jobbar i desktop-tutorial
+Ändra rad tre i filen MinFil.txt.
+Skriv in en förklarande kommentar
+Kör commit
+Ladda upp filerna med push
+Hur ser det ut i din webbläsare på github.com?
+
+
+3.
+Vi jobbar i desktop-tutorial
+Skapa en ny gren, döpt den till laboration
+Vad händer då? Finns filerna kvar?
+Lägg till en ny fil
+Lägg till två nya rader i mitten av filen MinFil.txt
+Kör commit och push, vettiga kommentarer…
+Vad har hänt på github nu?
+
+
+Vi jobbar i desktop-tutorial, i grenen laboration
+Du vill kopiera ändringarna i din gren till stammen (main).
+Hur gör du det? Finns det flera sätt?
+Läs Pro Git.
+
+
+Vad menas med att en fil är ”ospårad” eller ”untracked”?
+Vad gör git clean?
+Vad är en ”prepareringsyta” eller ”stage area”?
+Hur kan du ställa in så att git inte bryr sig om vissa filer?
+
+
